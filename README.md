@@ -14,4 +14,4 @@ optpara.m: Parameter selection file. Files with optpara suffix denote parameter 
 
 test.m: Computes evaluation metrics based on predicted labels and true labels.
 
-The code has been tested on Windows 10 with MATLAB R2022a. For further inquiries, please contact: zhangmath1122@163.com.
+The code has been tested on Windows 11 with MATLAB R2022a. For further inquiries, please contact: zhangmath1122@163.com.
